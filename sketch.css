@@ -1,4 +1,9 @@
-p {
+/* SKETCH THEME STYLESHEET */
+
+/* set font-family and font-size for basic elements*/
+p, ul, ol {
     font-family: cursive;
     font-size: 18px;
 }
+
+/* set styles for headers */
