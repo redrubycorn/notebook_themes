@@ -1,7 +1,7 @@
-/* SKETCH THEME STYLESHEET */
+/* CLEAN LINES THEME STYLESHEET */
 
 /* set the font-family for all elements */
-p, ol, ul { font-family: cursive;}
+p, ol, ul { font-family: Verdana, Geneva, Tahoma, sans-serif;}
 
 /* set the font-size for general elements */
 p, ol, ul { font-size: 18px;}
